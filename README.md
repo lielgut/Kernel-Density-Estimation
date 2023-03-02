@@ -1,7 +1,6 @@
-# Kernel-Density-Estimation
-Project for tabular data science course
-
 # Tabular Data Science - Final Project
+# Kernel-Density-Estimation
+Project for tabular data science course.
 By Liel Gutman and Yaniv Rotics.
 
 ## About the Project
