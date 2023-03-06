@@ -1,4 +1,4 @@
-# Tabular Data Science - Final Project - Kernel DensityEstimation Bandwidth Optimization
+# Tabular Data Science - Final Project - Kernel Density Estimation Bandwidth Optimization
 Project for tabular data science course.
 By Liel Gutman and Yaniv Rotics.
 
