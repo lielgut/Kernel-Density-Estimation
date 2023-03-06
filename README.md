@@ -3,7 +3,8 @@ Project for tabular data science course.
 By Liel Gutman and Yaniv Rotics.
 
 ## About the Project
-The project aimed to improve the selection of hyperparameters in Kernel Density Estimation, specifically the bandwidth and kernel function. The proposed solution involved generating synthetic data from known distributions and evaluating the performance of the KDE model using different bandwidths and kernel functions. The performance was evaluated using mean squared error and total log-likelihood metrics. The "scott" and "silverman" rules-of-thumb were also used for bandwidth selection, and AutoML with grid search and cross-validation was implemented to automate the process of finding the best hyperparameters. The performance of the best methods was tested on four different datasets with unknown distributions. The project's goal was to develop a systematic approach to selecting the optimal hyperparameters for KDE that is applicable to a wide range of datasets and underlying distributions.
+The project aims to improve the selection of hyperparameters in Kernel Density Estimation, specifically the bandwidth parameter which impacts the smoothness of the estimation. The proposed solution involves using different bandwidths including "scott" and "silverman" rules-of-thumb, and Grid Search Cross-Validation which is an AutoML method available in Scikit Learn that estimates the best hyperparameters.
+The performance was evaluated using mean squared error (MSE) and total log-likelihood metrics. The performance of the best methods was tested on known distributions and four different datasets as well.
 
 The final report can be found [here](https://github.com/lielgut/Kernel-Density-Estimation/blob/main/report.pdf).
 
