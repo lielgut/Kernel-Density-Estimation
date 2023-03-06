@@ -14,5 +14,5 @@ The final report can be found [here](https://github.com/lielgut/Kernel-Density-E
 3. Action movie ratings imdb ([kaggle](https://www.kaggle.com/datasets/rajugc/imdb-movies-dataset-based-on-genre))
 4. NASA - Nearest Earth Objects ([kaggle](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects?select=neo.csv))
 
-To run the project, please install the requirements and run and jupyter notebook.
+To run the project, please install the requirements and run the jupyter notebook.
 
